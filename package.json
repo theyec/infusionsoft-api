@@ -20,11 +20,12 @@
     "url": "https://github.com/bvalosek/infusionsoft-api/issues"
   },
   "dependencies": {
-    "typedef": "~0.13.2",
-    "xmlrpc": "~1.1.0",
-    "underscore": "~1.5.1",
+    "inflection": "~1.2.6",
+    "passport-infusionsoft": "0.0.3",
     "q": "~0.9.6",
-    "inflection": "~1.2.6"
+    "typedef": "~0.13.2",
+    "underscore": "~1.5.1",
+    "xmlrpc": "~1.1.0"
   },
   "devDependencies": {
     "grunt-contrib-jshint": "~0.6.2",
